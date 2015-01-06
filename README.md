@@ -10,7 +10,7 @@ These studios exhibit generosity in heart and hand, work on projects that matter
 * Blue Cadet - http://bluecadet.com
 * Blue State Digital - https://www.bluestatedigital.com
 * Catapult Design - https://catapultdesign.org
-* co:lab - http://colabinc.com
+* CO:LAB - http://colabinc.com
 * Exygy - http://exygy.com
 * Fifty and Fifty - http://fiftyandfifty.org
 * Firebelly - http://firebellydesign.com
