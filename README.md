@@ -5,7 +5,7 @@ A list of design studios that do good in the world.
 
 These studios exhibit generosity in heart and hand, work on projects that matter, take on on pro-bono clients, and are commited to making a positive impact in the world.
 
-* Another Limited Rebellion - alrdesign.com
+* Another Limited Rebellion - http://alrdesign.com
 * Big Duck - http://bigducknyc.com
 * Blue Cadet - http://bluecadet.com
 * Blue State Digital - https://bluestatedigital.com
