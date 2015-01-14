@@ -27,6 +27,7 @@ These studios exhibit generosity in heart and hand, work on projects that matter
 * Public workshop - http://publicworkshop.us
 * Potion Design - http://potiondesign.com
 * Rule29 - http://rule29.com/
+* The Wise City - http://thewisecity.org
 * Threespot - https://threespot.com
 * Tomorrow Today - http://tomorrowtoday.is
 * verynice - http://verynice.co
