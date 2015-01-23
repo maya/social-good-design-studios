@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social Good Design Studios</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
+    <description>A list of design studios that do good in the world. These studios exhibit generosity in heart and hand, work on projects that matter, take on on pro-bono clients, and are committed to making a positive impact in the world.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 23 Jan 2015 14:08:40 -0800</pubDate>
-    <lastBuildDate>Fri, 23 Jan 2015 14:08:40 -0800</lastBuildDate>
+    <pubDate>Fri, 23 Jan 2015 14:28:01 -0800</pubDate>
+    <lastBuildDate>Fri, 23 Jan 2015 14:28:01 -0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
