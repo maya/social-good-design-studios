@@ -1,0 +1,15 @@
+# Site settings
+title: Social Good Design Studios
+email: hello@maya-benari.com
+description: > # this means to ignore newlines until "baseurl:"
+A list of design studios that do good in the world. These studios 
+exhibit generosity in heart and hand, work on projects that matter, 
+take on on pro-bono clients, and are committed to making a positive 
+impact in the world.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: mayabenari
+github_username:  maya
+
+# Build settings
+markdown: kramdown

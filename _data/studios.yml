@@ -1,0 +1,96 @@
+- name: Another Limited Rebellion
+  website: alrdesign.com
+  
+- name: Big Duck
+  category: graphic web interaction
+  location: Los Angeles
+  website: bigducknyc.com
+
+- name: Blue Cadet
+  category: print web
+  location: San Francisco
+  website: bluecadet.com
+  
+- name: Blue State Digital
+  website: bluestatedigital.com
+  category: print
+    
+- name: Catapult Design
+  website: catapultdesign.org
+  category: web
+     
+- name: CO:LAB
+  website: colabinc.com
+  category: print web
+  
+- name: Exygy
+  website: exygy.com
+  category: print web
+    
+- name: Fifty and Fifty
+  website: fiftyandfifty.org
+  category: web
+    
+- name: Firebelly
+  website: firebellydesign.com
+  category: print web pro-bono
+    
+- name: Free range
+  website: freerange.com
+  category: print web
+    
+- name: Greater Good Studio
+  website: greatergoodstudio.com
+  category: web
+    
+- name: Heart Giants
+  website: heartgiants.com
+  category: print web
+    
+- name: Hyperakt
+  website: hyperakt.com
+  category: print pro-bono web
+    
+- name: kad
+  website: kad.com
+  category: print web
+    
+- name: Made by We
+  website: madebywe.org
+  category: print web
+    
+- name: Matchstick
+  website: matchstic.com
+  category: pro-bono web
+    
+- name: MINE
+  website: minesf.com
+  category: pro-bono web
+    
+- name: Nice and Serious
+  website: niceandserious.com
+  
+- name: P'unk Ave
+  website: punkave.com
+  
+- name: Public workshop
+  website: publicworkshop.us
+  
+- name: Potion Design
+  website: potiondesign.com
+  
+- name: Rule29
+  website: rule29.com
+  
+- name: The Wise City
+  website: thewisecity.org
+  
+- name: Threespot
+  website: threespot.com
+  
+- name: Tomorrow Today
+  website: tomorrowtoday.is
+  
+- name: verynice
+  website: verynice.co
+  category: print web pro-bono  
