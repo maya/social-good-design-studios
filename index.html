@@ -19,13 +19,12 @@ layout: default
 {% for studio in site.data.studios %}
 	<div class="item objects {{ studio.category }}">
     <a href="http://{{ studio.website }}">
-  	<p class="name">
-    	{{ studio.name }}
-  	</p>
+    	<p class="name">
+      	{{ studio.name }}
+    	</p>
   	
-  	
-    	<p class="sub">
-    	visit
+    	<p class="location">
+    	{{ studio.location }}
   	  </p>  
   	</a>	
 	</div>

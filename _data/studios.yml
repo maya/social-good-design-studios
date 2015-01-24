@@ -1,96 +1,120 @@
 - name: Another Limited Rebellion
+  location: "New York, NY"
   website: alrdesign.com
   
 - name: Big Duck
   category: graphic web interaction
-  location: Los Angeles
+  location: "Brooklyn, NY"
   website: bigducknyc.com
 
 - name: Blue Cadet
   category: print web
-  location: San Francisco
+  location: "Philadelphia, PA"
   website: bluecadet.com
   
 - name: Blue State Digital
+  location: "Boston / DC / London / LA / NY"
   website: bluestatedigital.com
   category: print
     
 - name: Catapult Design
+  location: CO / NY / SF
   website: catapultdesign.org
   category: web
      
 - name: CO:LAB
+  location: "Hartford, CT" 
   website: colabinc.com
   category: print web
   
 - name: Exygy
+  location: "San Francisco, CA"
   website: exygy.com
   category: print web
     
 - name: Fifty and Fifty
+  location: "San Diego, CA"
   website: fiftyandfifty.org
   category: web
     
 - name: Firebelly
+  location: "Chicago, Il"
   website: firebellydesign.com
   category: print web pro-bono
     
-- name: Free range
+- name: Free Range Studios
+  location: "Oakland, CA"
   website: freerange.com
   category: print web
     
 - name: Greater Good Studio
+  location: "Chicago, IL"
   website: greatergoodstudio.com
   category: web
     
 - name: Heart Giants
+  location: "Batavia, IL"
   website: heartgiants.com
   category: print web
     
 - name: Hyperakt
+  location: "Brooklyn, NY"
   website: hyperakt.com
   category: print pro-bono web
     
 - name: kad
+  location: "Chicago, IL"
   website: kad.com
   category: print web
     
 - name: Made by We
+  location: "Washington, DC"
   website: madebywe.org
   category: print web
     
 - name: Matchstick
+  location: "Atlanta, GA"
   website: matchstic.com
   category: pro-bono web
     
 - name: MINE
+  location: "San Francisco, CA"
   website: minesf.com
   category: pro-bono web
     
 - name: Nice and Serious
+  location: "London, UK"
   website: niceandserious.com
   
 - name: P'unk Ave
+  location: "Philadelphia, PA"
   website: punkave.com
   
-- name: Public workshop
+- name: Public Workshop
+  location: "Philadelphia, PA"
   website: publicworkshop.us
   
 - name: Potion Design
+  location: "New York, NY"
   website: potiondesign.com
   
 - name: Rule29
+  location: "Phoenix, AZ"
   website: rule29.com
   
 - name: The Wise City
+  location: "New York, NY"
   website: thewisecity.org
   
 - name: Threespot
+  location: "Washington, DC"
   website: threespot.com
   
 - name: Tomorrow Today
+  location: "Cincinnati, OH"
   website: tomorrowtoday.is
   
 - name: verynice
+  location: LA / NY / ATX
   website: verynice.co
   category: print web pro-bono  

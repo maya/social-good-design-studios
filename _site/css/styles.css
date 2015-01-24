@@ -146,7 +146,7 @@ p {
   font-weight: 700;
   line-height: 1.1; }
 
-.sub {
+.location {
   bottom: 10px;
   color: #7d7618;
   font-size: 10px;
@@ -174,6 +174,12 @@ p {
   -ms-transition: background-color .2s ease !important;
   -o-transition: background-color .2s ease !important;
   transition: background-color .2s ease !important; }
+
+.web {
+  background-color: #f4a4b8; }
+
+.print {
+  background-color: #f0ccae; }
 
 .isotope-item > a:hover {
   text-decoration: none; }
