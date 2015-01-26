@@ -5,6 +5,11 @@ A list of design studios that do good in the world.
 
 These studios exhibit generosity in heart and hand, work on projects that matter, take on on pro-bono clients, and are committed to making a positive impact in the world.
 
+## How to contribute
+1. Edit the _data/studios.yml](https://github.com/maya/social-good-design-studios/blob/master/_data/studios.yml) file with one studio per section
+2. You're done
+
+## Current studios
 * Another Limited Rebellion - http://alrdesign.com
 * Big Duck - http://bigducknyc.com
 * Blue Cadet - http://bluecadet.com
