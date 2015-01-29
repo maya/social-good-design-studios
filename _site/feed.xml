@@ -3,10 +3,10 @@
   <channel>
     <title>Social Good Design Studios</title>
     <description>A list of design studios that do good in the world. These studios exhibit generosity in heart and hand, work on projects that matter, take on on pro-bono clients, and are committed to making a positive impact in the world.</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 26 Jan 2015 13:40:19 -0800</pubDate>
-    <lastBuildDate>Mon, 26 Jan 2015 13:40:19 -0800</lastBuildDate>
+    <link>http://yourdomain.com/social-good-design-studios//</link>
+    <atom:link href="http://yourdomain.com/social-good-design-studios//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 29 Jan 2015 13:14:03 -0800</pubDate>
+    <lastBuildDate>Thu, 29 Jan 2015 13:14:03 -0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -27,8 +27,8 @@
 
 </description>
         <pubDate>Fri, 23 Jan 2015 04:32:41 -0800</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/01/23/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/01/23/welcome-to-jekyll.html</guid>
+        <link>http://yourdomain.com/social-good-design-studios//jekyll/update/2015/01/23/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/social-good-design-studios//jekyll/update/2015/01/23/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>

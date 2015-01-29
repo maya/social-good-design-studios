@@ -175,12 +175,6 @@ p {
   -o-transition: background-color .2s ease !important;
   transition: background-color .2s ease !important; }
 
-.web {
-  background-color: #f4a4b8; }
-
-.print {
-  background-color: #f0ccae; }
-
 .isotope-item > a:hover {
   text-decoration: none; }
 
