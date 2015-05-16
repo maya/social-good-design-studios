@@ -41,7 +41,12 @@
   location: "Chicago, Il"
   website: firebellydesign.com
   category: print web pro-bono
-    
+
+- name: Free Code Camp
+  location: "San Francisco, CA"
+  website: freecodecamp.com
+  category: web pro-bono
+
 - name: Free Range Studios
   location: "Oakland, CA"
   website: freerange.com
