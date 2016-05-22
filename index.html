@@ -3,50 +3,24 @@ layout: default
 ---
 
 <div class="home">
-
-<div class="portfolioFilter">
-
-	<a href="#" data-filter="*" class="current">All Studios</a>
-	<a href="#" data-filter=".web">Web</a>
-	<a href="#" data-filter=".print">Print</a>
-	<a href="#" data-filter=".pro-bono">Pro-Bono</a>
-
-</div>
-
-<div class="portfolioContainer">
-
-{% for studio in site.data.studios %}
-	<div class="item objects {{ studio.category }}">
-    <a href="http://{{ studio.website }}">
-    	<p class="name">
-      	{{ studio.name }}
-    	</p>
-  	
-    	<p class="location">
-    	{{ studio.location }}
-  	  </p>  
-  	</a>	
-	</div>
-{% endfor %}	
-	
-</div>
-
-<!--- Remove posts and subscribe
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
--->
-
+  <div class="portfolioFilter">
+  	<a href="#" data-filter="*" class="current">All Studios</a>
+  	<a href="#" data-filter=".web">Web</a>
+  	<a href="#" data-filter=".print">Print</a>
+  	<a href="#" data-filter=".pro-bono">Pro-Bono</a>
+  </div>
+  <div class="portfolioContainer">
+    {% for studio in site.data.studios %}
+  	<div class="item objects {{ studio.category }}">
+      <a href="http://{{ studio.website }}">
+      	<p class="name">
+        	{{ studio.name }}
+      	</p>	
+      	<p class="location">
+      	 {{ studio.location }}
+    	  </p>  
+    	</a>	
+  	</div>
+    {% endfor %}	
+  </div>
 </div>
