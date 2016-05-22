@@ -25,6 +25,7 @@ These studios exhibit generosity in heart and hand, work on projects that matter
 * Heart Giants - http://heartgiants.com
 * Hyperakt - http://hyperakt.com
 * kad - http://kad.com
+* Latte Creative - http://www.lattecreative.com
 * Made by We - http://madebywe.org
 * Matchstick - http://matchstic.com
 * MINE - http://minesf.com
@@ -35,6 +36,5 @@ These studios exhibit generosity in heart and hand, work on projects that matter
 * Rule29 - http://rule29.com/
 * The Wise City - http://thewisecity.org
 * Threespot - https://threespot.com
-* Tomorrow Today - http://tomorrowtoday.is
 * verynice - http://verynice.co
 * Worldstudio - http://worldstudioinc.com
