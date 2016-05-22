@@ -19,6 +19,7 @@ These studios exhibit generosity in heart and hand, work on projects that matter
 * Exygy - http://exygy.com
 * Fifty and Fifty - http://fiftyandfifty.org
 * Firebelly - http://firebellydesign.com
+* Free Code Camp - http://freecodecamp.com
 * Free range - http://freerange.com
 * Greater Good Studio - http://greatergoodstudio.com
 * Heart Giants - http://heartgiants.com
@@ -36,3 +37,4 @@ These studios exhibit generosity in heart and hand, work on projects that matter
 * Threespot - https://threespot.com
 * Tomorrow Today - http://tomorrowtoday.is
 * verynice - http://verynice.co
+* Worldstudio - http://worldstudioinc.com
