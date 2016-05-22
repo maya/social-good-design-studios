@@ -163,6 +163,8 @@ p {
 
 .isotope-item > a:hover {
   background-color: #424242; }
+  .isotope-item > a:hover > .location {
+    color: #eee9a6; }
 
 .isotope-item > a {
   height: 220px;
