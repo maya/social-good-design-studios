@@ -1,7 +1,7 @@
 - name: Another Limited Rebellion
   location: "New York, NY"
   website: alrdesign.com
-  
+
 - name: Big Duck
   category: print web
   location: "Brooklyn, NY"
@@ -11,22 +11,22 @@
   category: web
   location: "Philadelphia, PA"
   website: bluecadet.com
-  
+
 - name: Blue State Digital
   location: "Boston / DC / London / LA / NY"
   website: bluestatedigital.com
   category: web
-    
+
 - name: Catapult Design
   location: CO / NY / SF
   website: catapultdesign.org
   category: print web
-     
+
 - name: CO:LAB
   location: "Hartford, CT" 
   website: colabinc.com
   category: print web
-  
+
 - name: Exygy
   location: "San Francisco, CA"
   website: exygy.com
@@ -36,7 +36,7 @@
   location: "San Diego, CA"
   website: fiftyandfifty.org
   category: web
-    
+
 - name: Firebelly
   location: "Chicago, Il"
   website: firebellydesign.com
@@ -51,27 +51,27 @@
   location: "Oakland, CA"
   website: freerange.com
   category: print web pro-bono
-    
+
 - name: Greater Good Studio
   location: "Chicago, IL"
   website: greatergoodstudio.com
   category: print web
-    
+
 - name: Heart Giants
   location: "Batavia, IL"
   website: heartgiants.com
   category: print web
-    
+
 - name: Hyperakt
   location: "Brooklyn, NY"
   website: hyperakt.com
   category: print pro-bono web
-    
+
 - name: kad
   location: "Chicago, IL"
   website: kad.com
   category: print web
-    
+
 - name: Made by We
   location: "Washington, DC"
   website: madebywe.org
@@ -81,17 +81,17 @@
   location: "Atlanta, GA"
   website: matchstic.com
   category: pro-bono web
-    
+
 - name: MINE
   location: "San Francisco, CA"
   website: minesf.com
   category: web print
-    
+
 - name: Nice and Serious
   location: "London, UK"
   website: niceandserious.com
   category: print web
-    
+
 - name: P'unk Ave
   location: "Philadelphia, PA"
   website: punkave.com
@@ -105,12 +105,12 @@
   location: "New York, NY"
   website: potiondesign.com
   category: web
-     
+
 - name: Rule29
   location: "Phoenix, AZ"
   website: rule29.com
   category: web print pro-bono
-  
+
 - name: The Wise City
   location: "New York, NY"
   website: thewisecity.org
@@ -120,7 +120,7 @@
   location: "Washington, DC"
   website: threespot.com
   category: web
-  
+
 - name: verynice
   location: LA / NY / ATX
   website: verynice.co
