@@ -7,6 +7,11 @@
   location: "Brooklyn, NY"
   website: bigducknyc.com
 
+- name: The Black Sheep Agency
+  category: print
+  location: "Houston, TX"
+  website: theblacksheepagency.com
+
 - name: Blue Cadet
   category: web
   location: "Philadelphia, PA"
